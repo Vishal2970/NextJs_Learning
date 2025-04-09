@@ -7,3 +7,5 @@ export default function secondPage(){
         </div>
     )
 }
+
+//http://localhost:3000/secondpage
