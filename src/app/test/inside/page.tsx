@@ -7,4 +7,4 @@ export default function insidePage() {
 }
 
 
-//http://localhost:3000/secondpage/inside
+//http://localhost:3000/test/inside

@@ -8,4 +8,4 @@ export default function secondPage(){
     )
 }
 
-//http://localhost:3000/secondpage
+//http://localhost:3000/test
